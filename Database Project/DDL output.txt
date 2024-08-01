@@ -1,0 +1,165 @@
+
+Trigger TRG_PAYMENT dropped.
+
+
+Trigger TRG_SHIPPING dropped.
+
+
+Trigger TRG_PURCHASE_ORDER dropped.
+
+
+Trigger TRG_PRODUCT dropped.
+
+
+Trigger TRG_CUSTOMER dropped.
+
+
+Sequence SEQ_CUSTOMER_CUSTOMER_ID dropped.
+
+
+Sequence SEQ_PRODUCT_PRODUCT_ID dropped.
+
+
+Sequence SEQ_SHIPPING_SHIPPING_ID dropped.
+
+
+View CUSTOMERINFO dropped.
+
+
+View ORDERINFO dropped.
+
+
+View ORDEROVER50 dropped.
+
+
+View SHIPPINGINFO dropped.
+
+
+Index IDX_PAYMENT_PAYMENT_STATUS dropped.
+
+
+Index IDX_PAYMENT_ORDER_ID_FK dropped.
+
+
+Index IDX_SHIPPING_TRACKING_NO dropped.
+
+
+Index IDX_SHIPPING_ORDER_ID_FK dropped.
+
+
+Index IDX_PRODUCT_ORDER_ID_FK dropped.
+
+
+Index IDX_PRODUCT_NAME dropped.
+
+
+Index IDX_PURCHASE_ORDER_CUSTOMER_ID_FK dropped.
+
+
+Index IDX_CUSTOMER_FIRST_NAME dropped.
+
+
+Table PAYMENT dropped.
+
+
+Table SHIPPING dropped.
+
+
+Table PRODUCT dropped.
+
+
+Table PURCHASE_ORDER dropped.
+
+
+Table CUSTOMER dropped.
+
+
+Table CUSTOMER created.
+
+
+Table PURCHASE_ORDER created.
+
+
+Table PRODUCT created.
+
+
+Table SHIPPING created.
+
+
+Table PAYMENT created.
+
+
+Index IDX_CUSTOMER_FIRST_NAME created.
+
+
+Index IDX_PURCHASE_ORDER_CUSTOMER_ID_FK created.
+
+
+Index IDX_PRODUCT_NAME created.
+
+
+Index IDX_PRODUCT_ORDER_ID_FK created.
+
+
+Index IDX_SHIPPING_ORDER_ID_FK created.
+
+
+Index IDX_SHIPPING_TRACKING_NO created.
+
+
+Index IDX_PAYMENT_ORDER_ID_FK created.
+
+
+Index IDX_PAYMENT_PAYMENT_STATUS created.
+
+
+Table CUSTOMER altered.
+
+
+Table PURCHASE_ORDER altered.
+
+
+Table PRODUCT altered.
+
+
+Table SHIPPING altered.
+
+
+Table PAYMENT altered.
+
+
+View CUSTOMERINFO created.
+
+
+View ORDERINFO created.
+
+
+View ORDEROVER50 created.
+
+
+View SHIPPINGINFO created.
+
+
+Sequence SEQ_CUSTOMER_CUSTOMER_ID created.
+
+
+Sequence SEQ_PRODUCT_PRODUCT_ID created.
+
+
+Sequence SEQ_SHIPPING_SHIPPING_ID created.
+
+
+Trigger TRG_CUSTOMER compiled
+
+
+Trigger TRG_PRODUCT compiled
+
+
+Trigger TRG_PURCHASE_ORDER compiled
+
+
+Trigger TRG_SHIPPING compiled
+
+
+Trigger TRG_PAYMENT compiled
+
